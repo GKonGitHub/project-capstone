@@ -1,5 +1,6 @@
 # project-capstone
-Capstone Project - NLP use case , September 2021 
+Capstone Project - NLP use case 
+September 2021 
 Rule based coding approaches to analyzing PDFs can provide insights and reports, but are
 not scalable. In this project, we have explored some state of the art Natural Language
 Processing (NLP) approaches to generalizing the task of extracting key information and
